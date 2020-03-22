@@ -1,0 +1,7 @@
+name: Tombstone
+version: 1.0.0
+author: hello@mattiamari.me
+website: https://github.com/mattiamari/tombstone
+api-version: 1.15
+description: Log players that love to live dangerously
+main: me.mattiamari.tombstone.Tombstone
